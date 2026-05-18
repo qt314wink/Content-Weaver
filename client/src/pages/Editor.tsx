@@ -39,7 +39,10 @@ const THEMES = [
   { id: 'splatter', name: 'Paint Splatter', icon: Palette },
   { id: 'memphis', name: '90s Memphis', icon: Grid2X2 },
   { id: 'powdery', name: 'Powdery Gradient', icon: CloudRain },
-  { id: 'sacred', name: 'Sacred Geometry', icon: Compass }
+  { id: 'sacred', name: 'Sacred Geometry', icon: Compass },
+  { id: 'comic', name: 'Comic Book', icon: FileText },
+  { id: 'holographic', name: 'Holographic', icon: Sparkles },
+  { id: 'glassmorphism', name: 'Glassmorphism', icon: Image }
 ];
 
 export default function Editor() {
@@ -54,7 +57,7 @@ export default function Editor() {
   const handleThemeChange = (themeId: string) => {
     setActiveTheme(themeId);
     const root = window.document.documentElement;
-    root.classList.remove('dark', 'theme-sepia', 'theme-cyberpunk', 'theme-neobrutal', 'theme-neumorphic', 'theme-claymorphism', 'theme-papercraft', 'theme-fabric', 'theme-stippled', 'theme-splatter', 'theme-memphis', 'theme-powdery', 'theme-sacred');
+    root.classList.remove('dark', 'theme-sepia', 'theme-cyberpunk', 'theme-neobrutal', 'theme-neumorphic', 'theme-claymorphism', 'theme-papercraft', 'theme-fabric', 'theme-stippled', 'theme-splatter', 'theme-memphis', 'theme-powdery', 'theme-sacred', 'theme-comic', 'theme-holographic', 'theme-glassmorphism');
     if (themeId === 'dark') root.classList.add('dark');
     if (themeId !== 'light' && themeId !== 'dark') root.classList.add(`theme-${themeId}`);
   };

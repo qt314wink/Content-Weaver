@@ -1,12 +1,13 @@
-import { useState } from "react";
+import { useState, Suspense } from "react";
 import { 
   Sparkles, Image as ImageIcon, Video, FileText, GripHorizontal, 
-  Plus, Settings2, Code, Quote, Layout, Hash, Type
+  Plus, Settings2, Code, Quote, Layout, Hash, Type, Box
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { 
   Popover, PopoverContent, PopoverTrigger 
 } from "@/components/ui/popover";
+import ThreeJSCanvas from "./ThreeJSCanvas";
 
 import bannerAbstract from "@/assets/images/banner-abstract.jpg";
 import bannerCyberpunk from "@/assets/images/banner-cyberpunk.jpg";
@@ -190,6 +191,25 @@ export default function CanvasView({ device, theme }: { device: 'desktop' | 'mob
                   {'}'}
                 </code>
               </pre>
+            </div>
+          </div>
+        </div>
+
+        {/* 3D Component Block */}
+        <div 
+          className="relative group/block mb-10 mt-12"
+          onMouseEnter={() => setHoveredBlock('3d')}
+          onMouseLeave={() => setHoveredBlock(null)}
+        >
+          <BlockControls isHovered={hoveredBlock === '3d'} />
+          <div className="p-2 bg-secondary/10 border border-border/40 rounded-2xl">
+            <div className="flex items-center gap-2 mb-3 px-2 pt-2">
+              <Box size={16} className="text-primary" />
+              <span className="text-sm font-medium text-muted-foreground">Interactive 3D Element</span>
+              <Badge variant="outline" className="ml-auto text-[10px]">WebGL</Badge>
+            </div>
+            <div className="w-full h-[400px] rounded-xl overflow-hidden shadow-inner border border-border/20">
+               <ThreeJSCanvas />
             </div>
           </div>
         </div>

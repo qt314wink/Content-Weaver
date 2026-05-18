@@ -18,6 +18,10 @@ export default function Dashboard() {
     setLocation('/editor');
   };
 
+  const goHome = () => {
+    setLocation('/');
+  };
+
   return (
     <div className="min-h-screen bg-background text-foreground flex flex-col md:flex-row overflow-hidden font-sans">
       
@@ -40,17 +44,17 @@ export default function Dashboard() {
         <ScrollArea className="flex-1 px-4 py-2">
           <div className="space-y-1">
             <p className="px-2 text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-2">My Content</p>
-            <NavItem icon={Clock} label="Recent" active />
-            <NavItem icon={FolderOpen} label="Projects" />
-            <NavItem icon={Presentation} label="Presentations" />
-            <NavItem icon={Layout} label="Websites" />
-            <NavItem icon={FileText} label="Documents" />
+            <NavItem icon={Clock} label="Recent" active onClick={goHome} />
+            <NavItem icon={FolderOpen} label="Projects" onClick={goHome} />
+            <NavItem icon={Presentation} label="Presentations" onClick={createNew} />
+            <NavItem icon={Layout} label="Websites" onClick={createNew} />
+            <NavItem icon={FileText} label="Documents" onClick={createNew} />
           </div>
 
           <div className="space-y-1 mt-8">
             <p className="px-2 text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-2">Team</p>
-            <NavItem icon={Users} label="Shared with me" />
-            <NavItem icon={Settings} label="Settings" />
+            <NavItem icon={Users} label="Shared with me" onClick={goHome} />
+            <NavItem icon={Settings} label="Settings" onClick={goHome} />
           </div>
         </ScrollArea>
         
@@ -186,9 +190,9 @@ export default function Dashboard() {
   );
 }
 
-function NavItem({ icon: Icon, label, active = false }: any) {
+function NavItem({ icon: Icon, label, active = false, onClick }: any) {
   return (
-    <div className={`flex items-center gap-3 px-3 py-2 rounded-lg cursor-pointer transition-colors text-sm font-medium ${active ? 'bg-primary/10 text-primary' : 'text-muted-foreground hover:bg-secondary/60 hover:text-foreground'}`}>
+    <div onClick={onClick} className={`flex items-center gap-3 px-3 py-2 rounded-lg cursor-pointer transition-colors text-sm font-medium ${active ? 'bg-primary/10 text-primary' : 'text-muted-foreground hover:bg-secondary/60 hover:text-foreground'}`}>
       <Icon size={16} />
       {label}
     </div>
