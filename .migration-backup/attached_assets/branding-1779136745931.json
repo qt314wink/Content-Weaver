@@ -1,0 +1,127 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "PPMori",
+      "role": "body"
+    }
+  ],
+  "colors": {
+    "primary": "#0858F7",
+    "secondary": "#0540AD",
+    "accent": "#FF6A0A",
+    "background": "#FFFFFF",
+    "textPrimary": "#002253",
+    "link": "#002253"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "PPMori",
+      "heading": "PPMori"
+    },
+    "fontStacks": {
+      "heading": [
+        "ESBuild",
+        "sans-serif"
+      ],
+      "body": [
+        "PPMori",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "PPMori",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "60px",
+      "h2": "96px",
+      "body": "18px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "7px"
+  },
+  "components": {
+    "buttonPrimary": {
+      "background": "#0540AD",
+      "textColor": "#FFFFFF",
+      "borderRadius": "24px",
+      "borderRadiusCorners": {
+        "topLeft": "24px",
+        "topRight": "24px",
+        "bottomRight": "24px",
+        "bottomLeft": "24px"
+      },
+      "shadow": "none"
+    },
+    "buttonSecondary": {
+      "background": "#FFFFFF",
+      "textColor": "#002253",
+      "borderColor": "#D0E6FE",
+      "borderRadius": "24px",
+      "borderRadiusCorners": {
+        "topLeft": "24px",
+        "topRight": "24px",
+        "bottomRight": "24px",
+        "bottomLeft": "24px"
+      },
+      "shadow": "rgba(255, 255, 255, 0.48) 0px 2px 4px 0px"
+    }
+  },
+  "images": {
+    "favicon": "File saved at: attached_assets/favicon.ico",
+    "ogImage": "File saved at: attached_assets/ogImage.png"
+  },
+  "__llm_logo_reasoning": {
+    "selectedIndex": -1,
+    "reasoning": "No suitable logo candidate was found in the header area. Candidate #0 is small and not clearly branded, while Candidate #1 is a footer logo, not suitable as the main brand logo.",
+    "confidence": 0.3,
+    "rejected": true,
+    "source": "llm"
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": 0,
+      "text": "Start for free",
+      "reasoning": "Button #0 is selected as the primary CTA because it uses a vibrant brand color (#0540AD) and has action-oriented text ('Start for free'), which is typical for primary CTAs."
+    },
+    "secondary": {
+      "index": 6,
+      "text": "Watch video",
+      "reasoning": "Button #6 is chosen as the secondary button because it has a different background color (#FFFFFF) and offers a supportive action ('Watch video'), making it suitable as a secondary CTA."
+    },
+    "confidence": 0.95
+  },
+  "personality": {
+    "tone": "modern",
+    "energy": "high",
+    "targetAudience": "tech-savvy professionals and businesses"
+  },
+  "designSystem": {
+    "framework": "chakra",
+    "componentLibrary": ""
+  },
+  "confidence": {
+    "buttons": 0.95,
+    "colors": 0.9,
+    "overall": 0.925
+  },
+  "__llm_metadata": {
+    "logoSelection": {
+      "llmCalled": true,
+      "llmSucceeded": true,
+      "finalSource": "llm",
+      "rawLogoSelection": {
+        "selectedLogoIndex": -1,
+        "selectedLogoReasoning": "No suitable logo candidate was found in the header area. Candidate #0 is small and not clearly branded, while Candidate #1 is a footer logo, not suitable as the main brand logo.",
+        "confidence": 0.3
+      }
+    },
+    "buttonClassification": {
+      "llmCalled": true,
+      "llmSucceeded": true
+    }
+  }
+}
