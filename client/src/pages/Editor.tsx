@@ -18,7 +18,8 @@ import {
   Sparkles, Type, Image as ImageIcon, Columns, 
   Settings2, ChevronDown, MousePointer2, Move,
   Smartphone, Monitor, Sun, Moon, Palette,
-  Library, Command, Share, Home, Link2, Copy, Check
+  Library, Command, Share, Home, Link2, Copy, Check,
+  FileText, Image, Grid2X2, CloudRain, Compass
 } from "lucide-react";
 
 import CanvasView from "@/components/editor/CanvasView";
@@ -28,7 +29,17 @@ const THEMES = [
   { id: 'light', name: 'Gamma Clean', icon: Sun },
   { id: 'dark', name: 'Dark Mode', icon: Moon },
   { id: 'sepia', name: 'Editorial Sepia', icon: Library },
-  { id: 'cyberpunk', name: 'Cyberpunk', icon: Command }
+  { id: 'cyberpunk', name: 'Cyberpunk', icon: Command },
+  { id: 'neobrutal', name: 'Neo-Brutalist', icon: Columns },
+  { id: 'neumorphic', name: 'Neumorphism', icon: Move },
+  { id: 'claymorphism', name: 'Claymorphism', icon: MousePointer2 },
+  { id: 'papercraft', name: 'Papercraft', icon: FileText },
+  { id: 'fabric', name: 'Fabric / Denim', icon: Image },
+  { id: 'stippled', name: 'Stippled Print', icon: Columns },
+  { id: 'splatter', name: 'Paint Splatter', icon: Palette },
+  { id: 'memphis', name: '90s Memphis', icon: Grid2X2 },
+  { id: 'powdery', name: 'Powdery Gradient', icon: CloudRain },
+  { id: 'sacred', name: 'Sacred Geometry', icon: Compass }
 ];
 
 export default function Editor() {
@@ -43,10 +54,9 @@ export default function Editor() {
   const handleThemeChange = (themeId: string) => {
     setActiveTheme(themeId);
     const root = window.document.documentElement;
-    root.classList.remove('dark', 'theme-sepia', 'theme-cyberpunk');
+    root.classList.remove('dark', 'theme-sepia', 'theme-cyberpunk', 'theme-neobrutal', 'theme-neumorphic', 'theme-claymorphism', 'theme-papercraft', 'theme-fabric', 'theme-stippled', 'theme-splatter', 'theme-memphis', 'theme-powdery', 'theme-sacred');
     if (themeId === 'dark') root.classList.add('dark');
-    if (themeId === 'sepia') root.classList.add('theme-sepia');
-    if (themeId === 'cyberpunk') root.classList.add('theme-cyberpunk');
+    if (themeId !== 'light' && themeId !== 'dark') root.classList.add(`theme-${themeId}`);
   };
 
   const handlePublish = () => {
