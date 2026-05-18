@@ -1,0 +1,403 @@
+![](https://storage.googleapis.com/gamma-assets/gamma-ico.png)
+
+![](https://storage.googleapis.com/gamma-assets/close.png)
+
+Problem
+
+Solution
+
+Integrations
+
+Resources
+
+[Request a Demo](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+Your new IT perimeter is your people
+
+In your organization…
+
+![SaaS](https://storage.googleapis.com/gamma-assets/ssas.png)
+
+Over 150 SaaS applications
+
+are sanctioned and actively utilized
+
+![employee](https://storage.googleapis.com/gamma-assets/employee.png)
+
+Over 67% employees
+
+use personal devices for corporate work daily
+
+![data breach](https://storage.googleapis.com/gamma-assets/breach.png)
+
+Over 95% data breaches
+
+start with human negligence
+
+Cloud data discovery and DLP like never before
+
+Contextual perception
+
+99.5% accurate data classification using advanced deep learning
+
+Horizontal coverage
+
+One-click deployment across all applications, devices & users
+
+User democratization
+
+Empowering the end user with instant remediation
+
+![gamma help section](https://gamma.ai/assets/images/gamma-help.jpg)
+
+How has Gamma helped!
+
+![users-protected](https://gamma.ai/assets/images/count-content.png)
+
+0
+
+Users protected
+
+![violations-detected](https://gamma.ai/assets/images/count-content.png)
+
+0
+
+Violations detected
+
+![breaches-remediated](https://gamma.ai/assets/images/count-content.png)
+
+0
+
+Breaches remediated
+
+Our Customers
+
+[![clover](https://gamma.ai/assets/images/customers/clover.png)](https://www.clover.com/)[![upstart](https://gamma.ai/assets/images/customers/upstart.png)](https://www.upstart.com/)[![exabeam](https://gamma.ai/assets/images/customers/exabeam.png)](https://www.exabeam.com/)
+
+[![bizongo](https://gamma.ai/assets/images/customers/bizongo.png)](https://www.bizongo.com/)[![branching minds](https://gamma.ai/assets/images/customers/branching-minds.png)](https://www.branchingminds.com/)[![projectn95](https://gamma.ai/assets/images/customers/projectn95.png)](https://www.projectn95.org/)
+
+Gamma Integrations
+
+[![Image of Gmail](https://gamma.ai/assets/images/new-design/logo-gmail.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Slack](https://gamma.ai/assets/images/new-design/logo-slack.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Mattermost](https://gamma.ai/assets/images/new-design/logo-mattermost.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Outlook](https://gamma.ai/assets/images/new-design/logo-outlook.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Github](https://gamma.ai/assets/images/new-design/logo-github.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of MS Teams](https://gamma.ai/assets/images/new-design/logo-msteams.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of JIRA](https://gamma.ai/assets/images/new-design/logo-jira.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Dropbox](https://gamma.ai/assets/images/new-design/logo-dropbox.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Box](https://gamma.ai/assets/images/new-design/logo-box.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Amazon Web Services](https://gamma.ai/assets/images/new-design/logo-aws.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Confluence](https://gamma.ai/assets/images/new-design/logo-confluence.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of OneDrive](https://gamma.ai/assets/images/new-design/logo-onedrive.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Google Drive](https://gamma.ai/assets/images/new-design/logo-gdrive.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Salesforce](https://gamma.ai/assets/images/new-design/logo-salesforce.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Azure](https://gamma.ai/assets/images/new-design/logo-azure.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Gmail](https://gamma.ai/assets/images/new-design/logo-gmail.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Slack](https://gamma.ai/assets/images/new-design/logo-slack.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Mattermost](https://gamma.ai/assets/images/new-design/logo-mattermost.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Outlook](https://gamma.ai/assets/images/new-design/logo-outlook.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of MS Teams](https://gamma.ai/assets/images/new-design/logo-msteams.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Amazon Web Services](https://gamma.ai/assets/images/new-design/logo-aws.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Azure](https://gamma.ai/assets/images/new-design/logo-azure.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Google Drive](https://gamma.ai/assets/images/new-design/logo-gdrive.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Salesforce](https://gamma.ai/assets/images/new-design/logo-salesforce.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of JIRA](https://gamma.ai/assets/images/new-design/logo-jira.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Dropbox](https://gamma.ai/assets/images/new-design/logo-dropbox.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Box](https://gamma.ai/assets/images/new-design/logo-box.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Github](https://gamma.ai/assets/images/new-design/logo-github.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of Confluence](https://gamma.ai/assets/images/new-design/logo-confluence.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[![Image of OneDrive](https://gamma.ai/assets/images/new-design/logo-onedrive.svg)](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+[Previous](https://gamma.ai/#myCarousel) [Next](https://gamma.ai/#myCarousel)
+
+![Image of a computer on a desk with books](https://gamma.ai/assets/images/new-design/sign-up-bg.png)
+
+See Gamma in Action
+
+Enter your business email address to request our product demo
+
+Request A Demo [Request a Demo](https://start.paloaltonetworks.com/saas-security-dlp-essentials-demo/)
+
+Thank You! Our team has received your request. We will get back to you soon
+
+Resources
+
+![](https://gamma.ai/assets/images/resources/arrow_left.svg)
+
+Previous
+
+![](https://gamma.ai/assets/images/resources/security_wfh.png)
+
+Data security in the WFH era
+
+Gamma hosted its first panel on October 29, 2020 to discuss the same covering a broad range of topics including cloud data risk assessment, cloud data governance, and cloud data access controls.
+
+![](https://gamma.ai/assets/images/resources/dlp-as-casb.png)
+
+Is DLP a feature of your CASB
+
+The answer? Obviously depends on how you view it. In a nutshell, CASB monitors the overall cloud usage. DLP is built for protecting data in the cloud or wherever it is.
+
+![](https://gamma.ai/assets/images/resources/cloud_dlp.png)
+
+Cloud DLP
+
+In today’s data world, data breaches are commonplace. Not a day goes by without a headline about a massive data breach.
+
+![](https://gamma.ai/assets/images/resources/dlp.png)
+
+4Ps of DLP
+
+Protect the data, protect the communication channels, protect the network and protect the infrastructure.
+
+![](https://gamma.ai/assets/images/resources/insider_threat.png)
+
+Insider Threat is your Worst Enemy. 9 Ways to Defeat it
+
+Insider threats are defined as cybersecurity threats that come from within a company, from an employee, vendor, contractors, business associates, or ex-employees.
+
+![](https://gamma.ai/assets/images/resources/risk.png)
+
+Risk of Data Breach to Small Businesses
+
+A data breach is the release of private information to an untrusted environment. Be it large corporations or small businesses, data breaches can have severe consequences for both.
+
+![](https://gamma.ai/assets/images/resources/tips.png)
+
+7 Life-saving Tips about social engineering attacks
+
+Social engineering attacks devastating and involve malicious outsiders preying on the victim's weaknesses to wreak havoc inside organisations.
+
+![](https://gamma.ai/assets/images/resources/data_security.png)
+
+Data security in the WFH era
+
+Gamma hosted its second panel on November 13, 2020 to discuss the same covering a broad range of topics including cloud data risk assessment, cloud data governance, and cloud data access controls.
+
+![](https://gamma.ai/assets/images/resources/phishing.png)
+
+Spear phishing
+
+Phishing is a term for any attempt to trick victims into sharing sensitive information such as passwords, usernames, and credit card details for malicious reasons.
+
+![](https://gamma.ai/assets/images/resources/insights.png)
+
+10 insights to help you build a culture of security and reduce risk
+
+A culture of security is a mindset, which if followed thoroughly, can prove to make an organization virtually impenetrable.
+
+Next
+
+![](https://gamma.ai/assets/images/resources/arrow_right.svg)
+
+Customer testimonials
+
+![](https://gamma.ai/assets/images/resources/arrow_left.svg)
+
+Previous
+
+![](https://gamma.ai/assets/images/testimonials/user_bm.png)
+
+David Magier
+
+Co-founder & COO
+
+![](https://gamma.ai/assets/images/customers/branching-minds.png)
+
+Securing student data is our prime focus at Branching Minds, as our K12 School District partners rely on us to keep this sensitive information secure.
+
+Securing student data is our prime focus at Branching Minds, as our K12 School District partners rely on us to keep this sensitive information secure. As part of this focus, we fully comply with both NIST and FERPA standards. As we sought to strengthen and improve our privacy infrastructure, the need for a strong DLP solution became immediately apparent and we set about searching for the right platform.
+
+We were really impressed with Gamma's product and it took us less than 24 hours from our first meeting to closing the deal. Deployment and configuration took less than 5 minutes. Since then, Gamma has not only mitigated potential data loss scenarios across our Slack, Gmail, GDrive & Github with unparalleled accuracy, but significantly improved our security posture via it's end user education component. Their commitment to help drive business value is truly commendable.
+
+The experience with the Gamma team was seamless. We were really impressed with their product and it took us less than 24 hours from our first meeting to closing the deal. Deployment and configuration took less than 5 minutes. Since then, Gamma has not only mitigated potential data loss scenarios across our Slack, Gmail, GDrive & Github with unparalleled accuracy, but significantly improved our security posture via it's end user education component.
+
+Gamma offered unmatchable customer support by going out of their way to align and implement their solution to match our business needs. Their commitment to help drive business value is truly commendable.
+
+![](https://gamma.ai/assets/images/testimonials/user_exabeam.png)
+
+Alexander Koshlich
+
+Director of Information Security
+
+![](https://gamma.ai/assets/images/customers/exabeam.png)
+
+Being a cyber security company ourselves, we take securing our credentials and devops secrets very seriously. Every other product we tried was either hard to tune, or with no easy UI, or inundated us with tons of false alerts.
+
+Being a cyber security company ourselves, we take securing our credentials and devops secrets very seriously. While we always had policies disallowing checking in of keys, tokens and credentials into Github repositories and elsewhere, educating and controlling our engineers was a massive challenge.
+
+Gamma team impressed me on day 1 with a complimentary risk assessment report on our public Github user activity. I’d dare say this for any security product ever, but Gamma thus far showed us almost 0 false positives and near 100% catch rate. We are extremely happy with Gamma and definitely excited to scale the deployment across numerous cloud services beyond Github.
+
+We tried a few external tools and even built internal solutions, but nothing got us satisfied - either it was hard to tune, or with no easy UI, while almost every product inundated us with tons of false alerts. Gamma team impressed me on day 1 with a complimentary risk assessment report on our public Github user activity. Gamma's assessment quickly caught the executive team's attention even while under tight budgets due to the pandemic and we quickly closed out a commercial agreement. I'd dare say this for any security product ever, but Gamma thus far showed us almost 0 false positives and near 100% catch rate.
+
+Additionally, Gamma team went way beyond to integrate their detections into Exabeam's SIEM using API connectors to help streamline our SOC operations. We are extremely happy with Gamma and definitely excited to scale the deployment across numerous cloud services beyond Github.
+
+![](https://gamma.ai/assets/images/testimonials/user_upstart.png)
+
+Pavi Ramamurthy
+
+VP & CISO
+
+![](https://gamma.ai/assets/images/customers/upstart.png)
+
+At Upstart, we care deeply about securing personal information of our borrowers. Having worked with network DLP in the past, we recognized the benefits of a cloud-based DLP.
+
+At Upstart, we care deeply about securing personal information of our borrowers. Having worked with network DLP in the past, we recognized the benefits of a cloud-based DLP.
+
+Gamma's ease of use and technology caught our attention. The deployment was seamless, and the Gamma team went out of their way to provide us with exceptional customer experience and worked with us to deliver a robust API and integration with our SOAR. We highly recommend both their product and the team to work with.
+
+Gamma's ease of use and technology caught our attention. The deployment was seamless, and the Gamma team went out of their way to provide us with exceptional customer experience and worked with us to deliver a robust API and integration with our SOAR. We highly recommend both their product and the team to work with.
+
+![](https://gamma.ai/assets/images/testimonials/user_bizongo.png)
+
+Ankit Tomar
+
+Co-founder & CTO
+
+![](https://gamma.ai/assets/images/customers/bizongo.png)
+
+Bizongo is a B2B ecommerce company and we deeply care about protecting our customer data.
+
+Bizongo is a B2B ecommerce company and we deeply care about protecting our customer data. We enforce high standards to secure engineering secrets as they are keys to all our data. But it was a massive challenge to know how often our developers were checking in credentials into our Slack and Github.
+
+Gamma delighted us on day one with a super quick 1-click onboarding. Gamma delivered instant value with a concise report highlighting cost benefit analysis of our data security posture. Since then, Gamma has performed perfectly by alerting end-users in real-time whenever they make objectionable security blunders. We would highly recommend Gamma to help resolve your data security challenges.
+
+Gamma delighted us on day one with a super quick 1-click onboarding. Gamma delivered instant value with a concise report highlighting cost benefit analysis of our data security posture. From there on, it was an easy purchase decision, and since then, Gamma has performed perfectly by alerting end-users in real-time whenever they make objectionable security blunders. Our security vulnerabilities have reduced tremendously, all thanks to the accurate detections and continuous real-time training that Gamma provides.
+
+Additionally, Gamma team provided us with impeccable customer support and 24/7 Slack support with response rates within a couple of hours. We would highly recommend Gamma to help resolve your data security challenges.
+
+![](https://gamma.ai/assets/images/testimonials/user_bm.png)
+
+David Magier
+
+Co-founder & COO
+
+![](https://gamma.ai/assets/images/customers/branching-minds.png)
+
+Securing student data is our prime focus at Branching Minds, as our K12 School District partners rely on us to keep this sensitive information secure.
+
+Securing student data is our prime focus at Branching Minds, as our K12 School District partners rely on us to keep this sensitive information secure. As part of this focus, we fully comply with both NIST and FERPA standards. As we sought to strengthen and improve our privacy infrastructure, the need for a strong DLP solution became immediately apparent and we set about searching for the right platform.
+
+We were really impressed with Gamma's product and it took us less than 24 hours from our first meeting to closing the deal. Deployment and configuration took less than 5 minutes. Since then, Gamma has not only mitigated potential data loss scenarios across our Slack, Gmail, GDrive & Github with unparalleled accuracy, but significantly improved our security posture via it's end user education component. Their commitment to help drive business value is truly commendable.
+
+The experience with the Gamma team was seamless. We were really impressed with their product and it took us less than 24 hours from our first meeting to closing the deal. Deployment and configuration took less than 5 minutes. Since then, Gamma has not only mitigated potential data loss scenarios across our Slack, Gmail, GDrive & Github with unparalleled accuracy, but significantly improved our security posture via it's end user education component.
+
+Gamma offered unmatchable customer support by going out of their way to align and implement their solution to match our business needs. Their commitment to help drive business value is truly commendable.
+
+![](https://gamma.ai/assets/images/testimonials/user_exabeam.png)
+
+Alexander Koshlich
+
+Director of Information Security
+
+![](https://gamma.ai/assets/images/customers/exabeam.png)
+
+Being a cyber security company ourselves, we take securing our credentials and devops secrets very seriously. Every other product we tried was either hard to tune, or with no easy UI, or inundated us with tons of false alerts.
+
+Being a cyber security company ourselves, we take securing our credentials and devops secrets very seriously. While we always had policies disallowing checking in of keys, tokens and credentials into Github repositories and elsewhere, educating and controlling our engineers was a massive challenge.
+
+Gamma team impressed me on day 1 with a complimentary risk assessment report on our public Github user activity. I’d dare say this for any security product ever, but Gamma thus far showed us almost 0 false positives and near 100% catch rate. We are extremely happy with Gamma and definitely excited to scale the deployment across numerous cloud services beyond Github.
+
+We tried a few external tools and even built internal solutions, but nothing got us satisfied - either it was hard to tune, or with no easy UI, while almost every product inundated us with tons of false alerts. Gamma team impressed me on day 1 with a complimentary risk assessment report on our public Github user activity. Gamma's assessment quickly caught the executive team's attention even while under tight budgets due to the pandemic and we quickly closed out a commercial agreement. I'd dare say this for any security product ever, but Gamma thus far showed us almost 0 false positives and near 100% catch rate.
+
+Additionally, Gamma team went way beyond to integrate their detections into Exabeam's SIEM using API connectors to help streamline our SOC operations. We are extremely happy with Gamma and definitely excited to scale the deployment across numerous cloud services beyond Github.
+
+![](https://gamma.ai/assets/images/testimonials/user_upstart.png)
+
+Pavi Ramamurthy
+
+VP & CISO
+
+![](https://gamma.ai/assets/images/customers/upstart.png)
+
+At Upstart, we care deeply about securing personal information of our borrowers. Having worked with network DLP in the past, we recognized the benefits of a cloud-based DLP.
+
+At Upstart, we care deeply about securing personal information of our borrowers. Having worked with network DLP in the past, we recognized the benefits of a cloud-based DLP.
+
+Gamma's ease of use and technology caught our attention. The deployment was seamless, and the Gamma team went out of their way to provide us with exceptional customer experience and worked with us to deliver a robust API and integration with our SOAR. We highly recommend both their product and the team to work with.
+
+Gamma's ease of use and technology caught our attention. The deployment was seamless, and the Gamma team went out of their way to provide us with exceptional customer experience and worked with us to deliver a robust API and integration with our SOAR. We highly recommend both their product and the team to work with.
+
+![](https://gamma.ai/assets/images/testimonials/user_bizongo.png)
+
+Ankit Tomar
+
+Co-founder & CTO
+
+![](https://gamma.ai/assets/images/customers/bizongo.png)
+
+Bizongo is a B2B ecommerce company and we deeply care about protecting our customer data.
+
+Bizongo is a B2B ecommerce company and we deeply care about protecting our customer data. We enforce high standards to secure engineering secrets as they are keys to all our data. But it was a massive challenge to know how often our developers were checking in credentials into our Slack and Github.
+
+Gamma delighted us on day one with a super quick 1-click onboarding. Gamma delivered instant value with a concise report highlighting cost benefit analysis of our data security posture. Since then, Gamma has performed perfectly by alerting end-users in real-time whenever they make objectionable security blunders. We would highly recommend Gamma to help resolve your data security challenges.
+
+Gamma delighted us on day one with a super quick 1-click onboarding. Gamma delivered instant value with a concise report highlighting cost benefit analysis of our data security posture. From there on, it was an easy purchase decision, and since then, Gamma has performed perfectly by alerting end-users in real-time whenever they make objectionable security blunders. Our security vulnerabilities have reduced tremendously, all thanks to the accurate detections and continuous real-time training that Gamma provides.
+
+Additionally, Gamma team provided us with impeccable customer support and 24/7 Slack support with response rates within a couple of hours. We would highly recommend Gamma to help resolve your data security challenges.
+
+![](https://gamma.ai/assets/images/testimonials/user_bm.png)
+
+David Magier
+
+Co-founder & COO
+
+![](https://gamma.ai/assets/images/customers/branching-minds.png)
+
+Securing student data is our prime focus at Branching Minds, as our K12 School District partners rely on us to keep this sensitive information secure.
+
+Securing student data is our prime focus at Branching Minds, as our K12 School District partners rely on us to keep this sensitive information secure. As part of this focus, we fully comply with both NIST and FERPA standards. As we sought to strengthen and improve our privacy infrastructure, the need for a strong DLP solution became immediately apparent and we set about searching for the right platform.
+
+We were really impressed with Gamma's product and it took us less than 24 hours from our first meeting to closing the deal. Deployment and configuration took less than 5 minutes. Since then, Gamma has not only mitigated potential data loss scenarios across our Slack, Gmail, GDrive & Github with unparalleled accuracy, but significantly improved our security posture via it's end user education component. Their commitment to help drive business value is truly commendable.
+
+The experience with the Gamma team was seamless. We were really impressed with their product and it took us less than 24 hours from our first meeting to closing the deal. Deployment and configuration took less than 5 minutes. Since then, Gamma has not only mitigated potential data loss scenarios across our Slack, Gmail, GDrive & Github with unparalleled accuracy, but significantly improved our security posture via it's end user education component.
+
+Gamma offered unmatchable customer support by going out of their way to align and implement their solution to match our business needs. Their commitment to help drive business value is truly commendable.
+
+Next
+
+1
+2
+3
+4
+![](https://gamma.ai/assets/images/resources/arrow_right.svg)
+
+Request A Demo
+
+![](https://gamma.ai/assets/images/request-demo.svg)
+
+Request A Demo
+
+Please give us your details & we will get back to you shortly!
+
+Request a DemoThank You! Our team has received your request. We will get back to you soon

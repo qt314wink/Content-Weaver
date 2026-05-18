@@ -1,0 +1,145 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Roboto",
+      "role": "body"
+    }
+  ],
+  "colors": {
+    "primary": "#286DF5",
+    "secondary": "#808890",
+    "accent": "#286DF5",
+    "background": "#FFFFFF",
+    "textPrimary": "#337AB7",
+    "link": "#337AB7"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Roboto",
+      "heading": "Roboto"
+    },
+    "fontStacks": {
+      "heading": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ],
+      "body": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Roboto",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "14px",
+      "h2": "36px",
+      "body": "20px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 10,
+    "borderRadius": "12px"
+  },
+  "components": {
+    "input": {
+      "background": "#FFFFFF",
+      "textColor": "#293031",
+      "borderColor": null,
+      "borderRadius": "0px",
+      "borderRadiusCorners": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "shadow": "none"
+    },
+    "buttonPrimary": {
+      "background": "#286DF5",
+      "textColor": "#FFFFFF",
+      "borderRadius": "30px",
+      "borderRadiusCorners": {
+        "topLeft": "30px",
+        "topRight": "30px",
+        "bottomRight": "30px",
+        "bottomLeft": "30px"
+      },
+      "shadow": "none"
+    },
+    "buttonSecondary": {
+      "background": "#F4F8FF",
+      "textColor": "#000000",
+      "borderRadius": "0px",
+      "borderRadiusCorners": {
+        "topLeft": "0px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "0px"
+      },
+      "shadow": "none"
+    }
+  },
+  "images": {
+    "logo": "https://gamma.ai/assets/images/new-design/gamma-logo-invert.png",
+    "favicon": "https://gamma.ai/assets/images/favicon.ico",
+    "ogImage": "/assets/images/gamma-seo.png",
+    "logoHref": "File saved at: attached_assets/logoHref.html",
+    "logoAlt": "Image of Gamma Logo"
+  },
+  "__llm_logo_reasoning": {
+    "selectedIndex": 3,
+    "reasoning": "Selected #3 because it is a medium-sized logo in the header, visible, and links to the homepage, matching the brand 'Gamma.AI'.",
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": 0,
+      "text": "Request a Demo",
+      "reasoning": "Button #0 is the primary CTA because it uses the vibrant brand color #286DF5, which is consistent with the primary color scheme, and has action-oriented text 'Request a Demo'."
+    },
+    "secondary": {
+      "index": 2,
+      "text": "Previous",
+      "reasoning": "Button #2 is selected as secondary because it has a different background color (#F4F8FF) and serves a navigational purpose ('Previous'), making it less prominent than the primary CTA."
+    },
+    "confidence": 0.95
+  },
+  "personality": {
+    "tone": "professional",
+    "energy": "medium",
+    "targetAudience": "businesses looking for AI-powered cloud solutions"
+  },
+  "designSystem": {
+    "framework": "bootstrap",
+    "componentLibrary": ""
+  },
+  "confidence": {
+    "buttons": 0.95,
+    "colors": 0.9,
+    "overall": 0.925
+  },
+  "__llm_metadata": {
+    "logoSelection": {
+      "llmCalled": true,
+      "llmSucceeded": true,
+      "finalSource": "llm",
+      "rawLogoSelection": {
+        "selectedLogoIndex": 3,
+        "selectedLogoReasoning": "Selected #3 because it is a medium-sized logo in the header, visible, and links to the homepage, matching the brand 'Gamma.AI'.",
+        "confidence": 0.95
+      }
+    },
+    "buttonClassification": {
+      "llmCalled": true,
+      "llmSucceeded": true
+    }
+  }
+}

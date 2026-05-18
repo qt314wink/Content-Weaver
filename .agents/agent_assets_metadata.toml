@@ -1,0 +1,20 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "imKT3VYyZuaWd3oIygLDW"
+uri = "file://client/src/assets/images/banner-abstract.jpg"
+type = "image"
+title = "abstract 3d geometric shapes soft lighting gradient aesthetic background"
+
+[[outputs]]
+id = "cucXYmw8HHKVaGQtlOVfu"
+uri = "file://client/src/assets/images/banner-cyberpunk.jpg"
+type = "image"
+title = "cyberpunk neon glowing digital grid background header"
+
+[[outputs]]
+id = "XToXHDpzAA62WoqED8P4q"
+uri = "file://client/src/assets/images/banner-minimal.jpg"
+type = "image"
+title = "minimalist clean elegant marble texture background header"
