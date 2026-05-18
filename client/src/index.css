@@ -97,25 +97,25 @@
 }
 
 .theme-sepia {
-  --background: #f4ecd8;
-  --foreground: #433422;
-  --card: #fdfbf7;
-  --card-foreground: #433422;
-  --popover: #fdfbf7;
-  --popover-foreground: #433422;
-  --primary: #d97736;
+  --background: #faf6f0;
+  --foreground: #362819;
+  --card: #ffffff;
+  --card-foreground: #362819;
+  --popover: #ffffff;
+  --popover-foreground: #362819;
+  --primary: #c25e4c;
   --primary-foreground: #ffffff;
-  --secondary: #e6dfcb;
-  --secondary-foreground: #433422;
-  --muted: #e6dfcb;
+  --secondary: #eee9e0;
+  --secondary-foreground: #362819;
+  --muted: #eee9e0;
   --muted-foreground: #8a7a63;
-  --accent: #e6dfcb;
-  --accent-foreground: #433422;
+  --accent: #eee9e0;
+  --accent-foreground: #362819;
   --destructive: #c2410c;
   --destructive-foreground: #ffffff;
-  --border: #d5ccb6;
-  --input: #d5ccb6;
-  --ring: #d97736;
+  --border: #dfd8cb;
+  --input: #dfd8cb;
+  --ring: #c25e4c;
 }
 
 .theme-cyberpunk {
@@ -135,9 +135,10 @@
   --accent-foreground: #ecfeff;
   --destructive: #f43f5e;
   --destructive-foreground: #ffffff;
-  --border: #27272a;
-  --input: #27272a;
+  --border: #3f3f46;
+  --input: #3f3f46;
   --ring: #22d3ee;
+  --radius: 0;
 }
 
 @layer base {

@@ -18,3 +18,9 @@ id = "XToXHDpzAA62WoqED8P4q"
 uri = "file://client/src/assets/images/banner-minimal.jpg"
 type = "image"
 title = "minimalist clean elegant marble texture background header"
+
+[[outputs]]
+id = "_m1LYcQk__JTq3uDJFhQY"
+uri = "file://client/src/assets/images/header-gamma-alt.jpg"
+type = "image"
+title = "dark moody editorial fashion photography abstract clean layout with deep navy and orange accents"

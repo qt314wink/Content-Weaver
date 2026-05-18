@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { 
   Sparkles, Image as ImageIcon, Video, FileText, GripHorizontal, 
-  Plus, Settings2, Code, Quote, Layout, Hash
+  Plus, Settings2, Code, Quote, Layout, Hash, Type
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { 
@@ -23,6 +23,7 @@ export default function CanvasView({ device, theme }: { device: 'desktop' | 'mob
   let bannerImg = bannerAbstract;
   if (theme === 'cyberpunk') bannerImg = bannerCyberpunk;
   if (theme === 'sepia') bannerImg = bannerMinimal;
+  if (theme === 'dark') bannerImg = bannerMinimal;
 
   return (
     <div 

@@ -7,11 +7,12 @@ import { Separator } from "@/components/ui/separator";
 import { Slider } from "@/components/ui/slider";
 import { Switch } from "@/components/ui/switch";
 import { Label } from "@/components/ui/label";
+import { Badge } from "@/components/ui/badge";
 import { 
   Layout, Type, Image as ImageIcon, Video, Grid2X2, 
   Table, List, AlignLeft, Bold, Italic, 
   Palette, UploadCloud, Link as LinkIcon, Smile,
-  AlignRight, AlignCenter, FileText, Search
+  AlignRight, AlignCenter, FileText, Search, Plus
 } from "lucide-react";
 
 export default function RightSidebar({ activeTab, setActiveTab }: { activeTab: string, setActiveTab: (tab: string) => void }) {
@@ -36,7 +37,7 @@ export default function RightSidebar({ activeTab, setActiveTab }: { activeTab: s
             </div>
           </div>
           <ScrollArea className="flex-1">
-            <div className="px-4 pb-6 space-y-6">
+            <div className="px-4 pb-6 space-y-6 pt-4">
               <BlockSection title="Basic" items={[
                 { icon: Type, label: "Text", color: "text-blue-500" },
                 { icon: AlignLeft, label: "Heading", color: "text-blue-500" },
@@ -62,6 +63,20 @@ export default function RightSidebar({ activeTab, setActiveTab }: { activeTab: s
         <TabsContent value="design" className="flex-1 m-0 overflow-hidden outline-none data-[state=active]:flex flex-col h-full">
           <ScrollArea className="flex-1">
             <div className="p-5 space-y-8">
+              
+              {/* Theme Settings */}
+              <div className="space-y-4">
+                <div className="flex items-center justify-between">
+                  <Label className="text-xs font-medium">Card Layout</Label>
+                  <Switch id="cards" defaultChecked />
+                </div>
+                <div className="flex items-center justify-between">
+                  <Label className="text-xs font-medium">Reader Mode</Label>
+                  <Switch id="reader" />
+                </div>
+              </div>
+
+              <Separator className="opacity-50" />
               
               {/* Text Alignment */}
               <div className="space-y-3">
